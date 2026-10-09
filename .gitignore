@@ -29,9 +29,6 @@ MANIFEST
 # Compiled Python bytecode
 *.py[cod]
 
-# Pyenv environment
-.python-version
-
 *.egg-info
 # Log files
 *.log
@@ -88,3 +85,4 @@ coverage.xml
 .pytest_cache/
 cover/
 venv/
+.venv/

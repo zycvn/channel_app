@@ -1,2 +1,0 @@
-worker: celery -A tasks worker --loglevel INFO
-beat: celery -A tasks beat --loglevel INFO

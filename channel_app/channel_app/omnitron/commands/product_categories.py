@@ -1,1 +1,0 @@
-#TODO omnitron product category integration
